@@ -1,0 +1,18 @@
+.hideList {
+    display: none;
+}
+
+.navbarList ul {
+    list-style: none;
+    padding: .5rem;
+    padding-left: 12px;
+}
+
+.navbarList {
+    display: block;
+    cursor: pointer;
+    width: 6rem;
+    background-color: lightgray;
+    border-left: 3px solid gray;
+    margin-left: 1rem;
+}

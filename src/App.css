@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.weatherApp {
+  background: lightblue;
+  height: 46.5rem;
+}
+
+.mainBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: auto;
+  height: 50rem;
+
+}
